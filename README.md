@@ -7,7 +7,7 @@
 
 ## Sobre Mí
 
-Soy una **desarrolladora en formación** apasionada por la tecnología y el aprendizaje constante, basada en **Barcelona**. Actualmente me especializo en desarrollo web (DAW), combinando una base sólida en programación orientada a objetos con conocimientos previos en sistemas microinformáticos y animación 3D.
+Soy una **desarrolladora en formación** apasionada por la tecnología y el aprendizaje constante. Actualmente me especializo en desarrollo web (DAW), combinando una base sólida en programación orientada a objetos con conocimientos previos en sistemas microinformáticos y animación 3D.
 
 Me caracterizo por ser una persona **responsable** y **organizada**, con gran facilidad para adaptarme a nuevos entornos tecnológicos y trabajar en equipo.
 
