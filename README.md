@@ -28,7 +28,7 @@ Me caracterizo por ser una persona **responsable** y **organizada**, con gran fa
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Lenguajes
 <div align="left">
@@ -53,7 +53,7 @@ Me caracterizo por ser una persona **responsable** y **organizada**, con gran fa
 
 ---
 
-## 🎓 Formación y Experiencia
+## Formación y Experiencia
 
 | Año | Título / Puesto | Detalle |
 | :--- | :--- | :--- |
