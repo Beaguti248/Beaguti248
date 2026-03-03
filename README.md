@@ -64,7 +64,3 @@ Me caracterizo por ser una persona **responsable** y **organizada**, con gran fa
 | 2023 | **CFGM Sistemas Microinformáticos** | Redes y Sistemas. |
 
 ---
-
-<div align="center">
-  <i>"Disfruto creando soluciones funcionales y creativas."</i>
-</div>
